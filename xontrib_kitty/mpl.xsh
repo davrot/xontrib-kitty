@@ -3,8 +3,8 @@ import sys
 from io import BytesIO
 
 from xonsh.tools import unthreadable
-from xonsh.lazyasd import lazyobject
-from xonsh import lazyimps
+from xonsh.lib.lazyasd import lazyobject
+from xonsh.lib import lazyimps
 
 
 __all__ = ()
